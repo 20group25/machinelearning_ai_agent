@@ -30,30 +30,6 @@ Streamlit enables the creation of intuitive, interactive user interfaces for mac
 
 This application is ideal for both beginners and professionals who want to streamline the machine learning pipeline without writing extensive code. It provides a foundation for understanding model behaviour while speeding up the experimentation process.
 
-## 🛠 How to Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd Automated-Machine-Learning-App
-   ```
-
-2. **Create a virtual environment**
-   ```bash
-   conda create -n automl python=3.9 -y
-   conda activate automl
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Launch the application**
-   ```bash
-   streamlit run app.py
-   ```
-
 ## 🤝 Contributions
 
 Contributions are welcome! Please follow the standard GitHub workflow:
